@@ -1,9 +1,13 @@
 ## Hi there 👋, I'm SeongYun Woo
-## current status
+https://img.shields.io/badge/:badgeContent
+
+### current status
 - undergraduate student
-## study
-### major - computer science core
-### minor - AI convergence
+### study
+- (major) computer science core
+- (minor) AI convergence
+### current intersts
+- version control system
 
 <!--
 **Woosyun/Woosyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
