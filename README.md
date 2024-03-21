@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm SeongYun Woo
-_https://img.shields.io/badge/:badgeContent
+
+
+### stacks
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### current status
 - undergraduate student
