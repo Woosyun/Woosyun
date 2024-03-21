@@ -2,8 +2,8 @@
 ## current status
 - undergraduate student
 ## study
-### major - "computer science core" in EECS department
-### minor - "AI convergence"
+### major - computer science core
+### minor - AI convergence
 
 <!--
 **Woosyun/Woosyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
