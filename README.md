@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
 </p>
 
-
+<!--
 ### current status
 - undergraduate student
 ### study
@@ -16,6 +16,7 @@
 - (minor) AI convergence
 ### current intersts
 - version control system
+-->
 
 <!--
 **Woosyun/Woosyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
