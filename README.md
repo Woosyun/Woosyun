@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm SeongYun Woo
-https://img.shields.io/badge/:badgeContent
+_https://img.shields.io/badge/:badgeContent
 
 ### current status
 - undergraduate student
