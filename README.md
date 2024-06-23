@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
 </p> -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Woosyun)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Woosyun)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ### current status
