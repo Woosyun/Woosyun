@@ -12,6 +12,4 @@
 
 
 ### current status
-- undergraduate student
-### study
-- computer science
+- undergraduate student in EECS, GIST
