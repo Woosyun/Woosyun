@@ -1,6 +1,6 @@
 # 💫 About Me:
-Interested in developing valuable software.
-Currently working on building a scalable, environment-agnostic version control system
+- Interested in developing valuable software.
+- Currently working on building a scalable, environment-agnostic version control system
 
 
 ## 🌐 Socials:
