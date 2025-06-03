@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on <br>rit, version control system<br>tauri-rit, desktop application for the rit
+Interested in developing valuable software.
+Currently working on building a scalable, environment-agnostic version control system
 
 
 ## 🌐 Socials:
