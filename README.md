@@ -1,6 +1,6 @@
 # 💫 About Me:
-Interested in developing valuable software.
-- Currently working on building a scalable, environment-agnostic version control system
+Dedicated and innovative Computer Science graduates passionate about leveraging technology to contribute to societal advancement. 
+Eager to apply academic knowledge and problem-solving skills to meaningful projects that drive positive change.
 
 
 ## 🌐 Socials:
